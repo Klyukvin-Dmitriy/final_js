@@ -1,0 +1,16 @@
+{
+  "name": "rpg-final-coursework",
+  "version": "1.0.0",
+  "description": "Итоговое задание: RPG-персонажи и поединки",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node index.js"
+  },
+  "keywords": ["rpg", "coursework"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

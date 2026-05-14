@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1778777148401" clover="3.2.0">
+  <project timestamp="1778777148401" name="All files">
+    <metrics statements="267" coveredstatements="237" conditionals="72" coveredconditionals="51" methods="53" coveredmethods="42" elements="392" coveredelements="330" complexity="0" loc="267" ncloc="267" packages="2" files="16" classes="16"/>
+    <package name="players">
+      <metrics statements="213" coveredstatements="184" conditionals="62" coveredconditionals="42" methods="41" coveredmethods="30"/>
+      <file name="Archer.js" path="C:\Users\Klukv\Desktop\study\JS\final\players\Archer.js">
+        <metrics statements="22" coveredstatements="20" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+      <file name="Crossbowman.js" path="C:\Users\Klukv\Desktop\study\JS\final\players\Crossbowman.js">
+        <metrics statements="14" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="Demiurge.js" path="C:\Users\Klukv\Desktop\study\JS\final\players\Demiurge.js">
+        <metrics statements="21" coveredstatements="18" conditionals="6" coveredconditionals="4" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="Dwarf.js" path="C:\Users\Klukv\Desktop\study\JS\final\players\Dwarf.js">
+        <metrics statements="19" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="25" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+      <file name="Mage.js" path="C:\Users\Klukv\Desktop\study\JS\final\players\Mage.js">
+        <metrics statements="22" coveredstatements="20" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="Player.js" path="C:\Users\Klukv\Desktop\study\JS\final\players\Player.js">
+        <metrics statements="88" coveredstatements="70" conditionals="40" coveredconditionals="26" methods="24" coveredmethods="19"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="21" type="stmt"/>
+        <line num="6" count="21" type="stmt"/>
+        <line num="7" count="21" type="stmt"/>
+        <line num="8" count="21" type="stmt"/>
+        <line num="9" count="21" type="stmt"/>
+        <line num="10" count="21" type="stmt"/>
+        <line num="11" count="21" type="stmt"/>
+        <line num="12" count="21" type="stmt"/>
+        <line num="13" count="21" type="stmt"/>
+        <line num="14" count="21" type="stmt"/>
+        <line num="15" count="21" type="stmt"/>
+        <line num="16" count="21" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="33" count="11" type="stmt"/>
+        <line num="37" count="11" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="46" count="7" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="61" count="4" type="stmt"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="66" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="82" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="87" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="94" count="4" type="stmt"/>
+        <line num="95" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="99" count="3" type="stmt"/>
+        <line num="100" count="3" type="stmt"/>
+        <line num="102" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="103" count="3" type="stmt"/>
+        <line num="104" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="106" count="1" type="stmt"/>
+        <line num="108" count="2" type="stmt"/>
+        <line num="110" count="3" type="stmt"/>
+        <line num="114" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="115" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="118" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="122" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="125" count="1" type="stmt"/>
+        <line num="126" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="127" count="1" type="stmt"/>
+        <line num="128" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="135" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="138" count="1" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="144" count="1" type="stmt"/>
+        <line num="145" count="4" type="stmt"/>
+        <line num="147" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="148" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="150" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="151" count="1" type="stmt"/>
+        <line num="152" count="1" type="stmt"/>
+        <line num="155" count="1" type="stmt"/>
+        <line num="158" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="159" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="160" count="1" type="stmt"/>
+        <line num="162" count="0" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+        <line num="167" count="1" type="stmt"/>
+      </file>
+      <file name="Warrior.js" path="C:\Users\Klukv\Desktop\study\JS\final\players\Warrior.js">
+        <metrics statements="27" coveredstatements="25" conditionals="8" coveredconditionals="6" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="27" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="28" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="38" count="6" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="weapons">
+      <metrics statements="54" coveredstatements="53" conditionals="10" coveredconditionals="9" methods="12" coveredmethods="12"/>
+      <file name="Arm.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\Arm.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="22" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="Axe.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\Axe.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="Bow.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\Bow.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="Knife.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\Knife.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="LongBow.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\LongBow.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="Staff.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\Staff.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="StormStaff.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\StormStaff.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="Sword.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\Sword.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="Weapon.js" path="C:\Users\Klukv\Desktop\study\JS\final\weapons\Weapon.js">
+        <metrics statements="20" coveredstatements="19" conditionals="10" coveredconditionals="9" methods="4" coveredmethods="4"/>
+        <line num="3" count="48" type="stmt"/>
+        <line num="4" count="48" type="stmt"/>
+        <line num="5" count="48" type="stmt"/>
+        <line num="6" count="48" type="stmt"/>
+        <line num="7" count="48" type="stmt"/>
+        <line num="11" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="10" type="stmt"/>
+        <line num="18" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="9" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
